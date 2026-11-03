@@ -5,8 +5,8 @@
 import { createClient } from "https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/+esm";
 
 // ---------- CONFIGURATION: replace these two values ----------
-const SUPABASE_URL = "https://gncjujhuedossdobokex.supabase.co";           // e.g. https://abcd1234.supabase.co
-const SUPABASE_PUBLISHABLE_KEY = "sb_publishable_fyUjmrj4hrD3sRzT8nwTGw_JJCY8ThY"; // starts with sb_publishable_...
+const SUPABASE_URL = "https://nsutpfvpoysmmadyaogf.supabase.co";           // e.g. https://abcd1234.supabase.co
+const SUPABASE_PUBLISHABLE_KEY = "sb_publishable_g3IuriS12q_hmxAX6Rqv7g_RWM_lPHl"; // starts with sb_publishable_...
 // -------------------------------------------------------------
 // Never put a secret key, service_role key or database password here.
 // The publishable key is safe in the browser because Row Level Security
